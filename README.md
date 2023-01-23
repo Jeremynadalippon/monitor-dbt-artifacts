@@ -9,4 +9,4 @@ The tables used are created by the dbt package [dbt-artifacts](https://github.co
 
 I would recommend using dbt to ship those queries as views (need to remove where clauses using Snowsight filters) and use the views directly within Snowsight or any other BI tool. 
 
-Here is an exemple dashboard using Snowsight : ![dashboard example](https://github.com/Jeremynadalippon/monitor-dbt-artifacts/blob/main/dashboard_example/dbt_monitoring_example.pdf)
+Here is an exemple dashboard using Snowsight : [dashboard example](dashboard_example/dbt_monitoring_example.pdf)
